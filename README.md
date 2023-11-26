@@ -1,7 +1,7 @@
 ## Awesome JSGame Detona Ralph
 
 <p align="center">
-  <img src="https://github.com/Danielevs/detona-ralph/blob/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
+  <img src="https://github.com/Danielevs/detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
 </p>
 
 
