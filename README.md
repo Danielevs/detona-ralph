@@ -1,7 +1,7 @@
 ## Awesome JSGame Detona Ralph
 
 <p align="center">
-  <img src="https://github.com/Danielevs/detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
+  <img src="./src/images/logo.png" alt="JSGame Detona Ralph Logo">
 </p>
 
 
@@ -21,5 +21,3 @@ Este jogo foi desenvolvido no desafio "Criando um Jogo do Detona Ralph com JavaS
 ### Funcionalidades Incríveis
 
 - **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
-
-Confira o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
